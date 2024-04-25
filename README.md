@@ -1,17 +1,17 @@
-# reconhecimento-facial-webcam
+# facial-recognition-webcam
 
+# How to use
 
-# How are use
-
-## install version python3.7 
+## Install Version Python 3.7.0
 https://www.python.org/downloads/release/python-370/
 
-## create envirement virtual
+## Create Virtual Environment
 C:\python3.7\python.exe -m venv venv
 
-#check version in project env
+# Check Project Version
 python -- version
-// return Python 3.7.0 
 
-## install libs
+// should return the version Python 3.7.0 
+
+## Install Libs
 python -m pip install opencv-python mediapipe cvzone
