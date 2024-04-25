@@ -1,6 +1,6 @@
-# facial-recognition-webcam
+# Facial Recognition Webcam
 
-# How to use
+## How to use
 
 ## Install Version Python 3.7.0
 https://www.python.org/downloads/release/python-370/
@@ -8,7 +8,7 @@ https://www.python.org/downloads/release/python-370/
 ## Create Virtual Environment
 C:\python3.7\python.exe -m venv venv
 
-# Check Project Version
+## Check Project Version
 python -- version
 
 // should return the version Python 3.7.0 
