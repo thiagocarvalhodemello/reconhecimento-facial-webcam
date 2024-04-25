@@ -6,7 +6,7 @@
 ## install version python3.7 
 https://www.python.org/downloads/release/python-370/
 
-## criate envirement virtual
+## create envirement virtual
 C:\python3.7\python.exe -m venv venv
 
 #check version in project env
